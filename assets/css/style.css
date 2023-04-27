@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body *{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.viaje-color{
+    color: #ffff;
+}
+
+
+.quines-somos{
+    background-color: #000;
+}
+
+.icon-qs{
+    width: 350px;
+    height: 80%;
+    background-color: #00BFFF;
+}
+
+.destacados{
+    text-align: center;
+    padding: 50px;
+}
+
+.destacados img{
+    width: 260px;
+    height: 200px;
+    padding: 1px;
+}
+
+.destacados .card{
+    color: #ffff;
+    background-color: #00BFFF;
+}
+
+.destacados{
+    background-color: #000;
+}
+
+.formulario-envio{
+    background-color: #000;
+}
+
+.formulario-envio .btn {
+    background-color: #00BFFF;
+}
+
+footer{
+    background-color: #00BFFF;
+    color: #ffff;
+    text-align: center;
+    padding: 30px;
+    opacity: 1;
+}
